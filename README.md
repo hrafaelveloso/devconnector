@@ -1,5 +1,6 @@
 # DevConnector
 A social network to connect developers, built with Node.js, Express, React+Redux and MongoDB.
+This repo uses Bootstrap for styling, [there's anoter version with Material-UI](https://github.com/hrafaelveloso/devconnector-material-ui)
 
 ## How to run the project locally
 
